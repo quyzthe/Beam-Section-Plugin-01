@@ -37,7 +37,6 @@ namespace Beam_Section_Plugin__01
         [CommandMethod("TTNBSC")]
         public static void BeamSection()
         {
-            // Get the current document and database
             Document acDoc = Application.DocumentManager.MdiActiveDocument;
             Database acCurDb = acDoc.Database;
 
