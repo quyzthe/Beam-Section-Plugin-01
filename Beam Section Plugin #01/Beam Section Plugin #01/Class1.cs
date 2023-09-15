@@ -93,15 +93,12 @@ namespace Beam_Section_Plugin__01
             }
             int a = 0;
 
-            // Start a transaction
             using (Transaction acTrans = acCurDb.TransactionManager.StartTransaction())
             {
-                // Open the Block table for read
                 BlockTable acBlkTbl;
                 acBlkTbl = acTrans.GetObject(acCurDb.BlockTableId,
                                                 OpenMode.ForRead) as BlockTable;
 
-                // Open the Block table record Model space for write
                 BlockTableRecord acBlkTblRec;
                 acBlkTblRec = acTrans.GetObject(acBlkTbl[BlockTableRecord.ModelSpace],
                                                 OpenMode.ForWrite) as BlockTableRecord;
@@ -110,21 +107,19 @@ namespace Beam_Section_Plugin__01
                 ObjectId steelLayerId = CreateLayer("Thep", 1, 5);
                 foreach (SectionInfo section in sectionInfos)
                 {
-                    double width = section.b; // Use 'b' from SectionInfo
-                    double height = section.h; // Use 'h' from SectionInfo
+                    double width = section.b; 
+                    double height = section.h; 
 
                     Polyline acPoly = CreateRectanglePolygon(new Point2d(a, 0), width, height);
 
                     Draw_Distributed_Layer(new Point3d(a, 0, 0), section, steelLayerId);
                     Draw_Rebar_Layers(new Point3d(a, 0, 0), section, steelLayerId);
 
-                    // Add the new object to the block table record and the transaction
                     acBlkTblRec.AppendEntity(acPoly);
                     acTrans.AddNewlyCreatedDBObject(acPoly, true);
                     a = a + 500;
                 }
 
-                // Save the new objects to the database
                 acTrans.Commit();
             }
         }
@@ -214,18 +209,14 @@ namespace Beam_Section_Plugin__01
 
                     acBlkTblRec.AppendEntity(acCirc);
                     acTrans.AddNewlyCreatedDBObject(acCirc, true);
-                    // Adds the circle to an object id array
                     ObjectIdCollection acObjIdColl = new ObjectIdCollection();
                     acObjIdColl.Add(acCirc.ObjectId);
 
-                    // Create the hatch object and append it to the block table record
+                    // Hatch
                     Hatch acHatch = new Hatch();
                     acBlkTblRec.AppendEntity(acHatch);
                     acTrans.AddNewlyCreatedDBObject(acHatch, true);
 
-                    // Set the properties of the hatch object
-                    // Associative must be set after the hatch object is appended to the 
-                    // block table record and before AppendLoop
                     acHatch.SetDatabaseDefaults();
                     acHatch.SetHatchPattern(HatchPatternType.PreDefined, "SOLID");
                     acHatch.Associative = true;
