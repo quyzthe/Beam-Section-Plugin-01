@@ -1,0 +1,36 @@
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Beam Section Plugin #01.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Beam Section Plugin #01.pdb
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\accoremgd.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcCui.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\acdbmgd.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcDx.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\acmgd.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcMNUParser.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AdWindows.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AdUiPalettes.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcDxPublishUi.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcCustomize.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AppHomeInterop.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcMr.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcWindows.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AdUIMgd.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\AcTcMgd.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Autodesk.AutoCAD.Interop.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Autodesk.DesktopConnector.API.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Newtonsoft.Json.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Serilog.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Serilog.Sinks.File.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\acdbmgd.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AcDx.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AdWindows.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AcDxPublishUi.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AcCustomize.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AppHomeInterop.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AcMr.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\bin\Debug\en-US\AcWindows.resources.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\obj\Debug\Beam Section Plugin #01.csproj.AssemblyReference.cache
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\obj\Debug\Beam Section Plugin #01.csproj.CoreCompileInputs.cache
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\obj\Debug\Beam Section Plugin #01.csproj.CopyComplete
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\obj\Debug\Beam Section Plugin #01.dll
+D:\3. PERSONAL PROJECT\The Thang Nam\Beam Section Plugin #01\Beam Section Plugin #01\obj\Debug\Beam Section Plugin #01.pdb
