@@ -6,7 +6,7 @@ The Project was born out of the realization that Civil Engineering students lack
 
 🏗️ **Programming in Construction Optimization**
 
-We aim to revolutionize the field by introducing programming in optimize construction processes. Utlizing technology and coding, we seek to improve project outcomes in the field of Civil Engineering.
+We aim to revolutionize the field by introducing programming to optimize construction processes. Utilizing technology and coding, we seek to improve project outcomes in the field of Civil Engineering.
 
 # Beam Section Plugin #01
 
@@ -22,7 +22,7 @@ This project is in its early stages and has been developed over a span of just 2
 
 🌟 **Stay Tune**
 
-If you're interested in what we're doing, please keep up via this GitHub Account, our Youtube chanel will be publish soon. We assure you that we will have more innovative products and updates in the future.
+If you're interested in what we're doing, please keep up via this GitHub Account, our Youtube channel will be published soon. We assure you that we will have more innovative products and updates in the future.
 
 🙏 **Thank You for Your Support**
 
