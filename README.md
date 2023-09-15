@@ -14,7 +14,7 @@ We aim to revolutionize the field by introducing programming to optimize constru
 
 Beam Section Plugin #01 is our initial foray into this exciting journey. This small-scale project addresses the need for a more efficient way to deploy Concrete Beam Sections on Technical Drawings. We use the AutoCAD.NET API to draw multiple sections simultaneously.
 
-View the code here: [GitHub Repository](Beam Section Plugin #01/Beam Section Plugin #01/Class1.cs)
+View the code here: [GitHub Repository](https://github.com/quyzthe/Beam-Section-Plugin-01/blob/2d4009fcfd08212554bf8aef3e00e7242cdc7484/Beam%20Section%20Plugin%20%2301/Beam%20Section%20Plugin%20%2301/Class1.cs)
 
 🕒 **Ongoing Development**
 
